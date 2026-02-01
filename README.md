@@ -14,7 +14,7 @@ This project aims to build an end-to-end AI-powered analytics platform that enab
 * Build a production-ready, automated analytics platform
 
 ## Dataset
-### Olist Brazilian E-Commerce Dataset
+### Olist Brazilian E-Commerce Dataset (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_customers_dataset.csv)
 The dataset represents a real-world multi-table transactional system and includes:
 * Orders
 * Order Items
