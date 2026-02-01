@@ -1,3 +1,4 @@
+# E-Commerce Customer Intelligence Platform
 ## Problem Statement
 E-commerce platforms generate large volumes of transactional and behavioral data, yet identifying high-value customers early in their lifecycle remains a significant challenge.
 
